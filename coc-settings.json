@@ -10,7 +10,7 @@
     "pairs.enableBackspace": true,
     "markdownlint.config.default": true,
     "markdownlint.config.line_length": false,
-    "translator.engines": ["google", "youdao"],
+    "translator.engines": ["youdao"],
     "tsserver.trace.server": "messages",
     "tsserver.enableJavascript": true,
     "explorer.quitOnOpen": true,

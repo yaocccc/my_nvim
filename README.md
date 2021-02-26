@@ -222,3 +222,7 @@ graph TB
   o3 --- n0
 ```
 
+~~~mermaid
+graph TB
+  A --> B
+~~~
